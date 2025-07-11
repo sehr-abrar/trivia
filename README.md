@@ -18,10 +18,6 @@ The following **required** functionality is completed:
 
 [YouTube Walkthrough](https://youtube.com/shorts/NSpbpeB0WEw?feature=share)
 
-## Notes
-
-Describe any challenges encountered while building the app.
-
 ## License
 
     Copyright [2025] [Sehr Abrar]
