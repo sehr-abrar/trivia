@@ -1,6 +1,4 @@
-# Project 4 - *Trivia*
-
-Submitted by: **Sehr Abrar**
+# Trivia
 
 **Trivia** is an app that fetches real trivia questions from the Open Trivia Database API and lets users answer multiple-choice or True/False questions, tracking their score and allowing them to restart with new questions for a fresh challenge every time.
 
